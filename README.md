@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 ## [TryHackMe](https://tryhackme.com/p/Moteke)
 <img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe">
 ## Malware Analysis
+
 ![Practical Malware Analysis book](/assets/malware-an.jpg)
+![550x711](https://user-images.githubusercontent.com/30510104/188332935-0f8af7b7-ec49-4d1c-baaa-44019f31c690.jpg)
