@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# I am currently learning
+## [TryHackMe](https://tryhackme.com/p/Moteke)
 <img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe">
+## Malware Analysis
+![Practical Malware Analysis book](https://media.s-bol.com/gJYY5Ay1r2m6/550x711.jpg)
