@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://tryhackme.com/badge/45299"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe">
