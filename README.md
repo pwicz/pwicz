@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script src="https://tryhackme.com/badge/45299"></script>
+# I am currently learning
+## [TryHackMe](https://tryhackme.com/p/Moteke) <- check out my profile!
+<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe">
+
+## Malware Analysis
+### Practical Malware Analysis
+
+[![Practical Malware Analysis book](/assets/malware-an-small.jpg)](https://nostarch.com/malware)
+
+### Open Analysis Labs
+
+[![1c900b51-1b8f-4cfd-9757-e451aac28577-profile_image-70x70](https://user-images.githubusercontent.com/30510104/188333152-eb639025-50d8-4eb9-b640-6028a1e33c31.png)](https://www.openanalysis.net/)
+
