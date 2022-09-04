@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ## Malware Analysis
 
-![Practical Malware Analysis book](/assets/malware-an-small.jpg)
+[![Practical Malware Analysis book](/assets/malware-an-small.jpg)](https://nostarch.com/malware)
