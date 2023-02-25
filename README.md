@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # I am currently learning
 ## [TryHackMe](https://tryhackme.com/p/Moteke) <- check out my profile!
-<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">
 
 ## Malware Analysis
 ### Practical Malware Analysis
