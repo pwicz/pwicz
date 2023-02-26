@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">
 
 THM Certificates:
-* <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3VHCIIAILQ.png" target="_blank">Jr Penetration Tester Learning Path</a>
-* <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WQDBBAS7MR.png" target="_blank">AoC 2022</a>
-* <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6C4H5WL9FR.png" target="_blank">AoC 2021</a>
-* <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YILTTKF53A.png" target="_blank">Complete Beginner Learning Path</a>
-* [test](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YILTTKF53A.png)
+* [Jr Penetration Tester Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3VHCIIAILQ.png)
+* [AoC 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WQDBBAS7MR.png)
+* [AoC 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6C4H5WL9FR.png)
+* [Complete Beginner Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YILTTKF53A.png)
 
 
 
