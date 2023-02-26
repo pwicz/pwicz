@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ## [TryHackMe](https://tryhackme.com/p/Moteke) <- check out my profile!
 <img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">
 
+THM Certificates:
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YILTTKF53A.png">Complete Beginner Learning Path</a>
+
 ## Malware Analysis
 ### Practical Malware Analysis
 
