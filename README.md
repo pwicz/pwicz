@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋, my name is Piotr
+## I am a student with a strong interest in cybersecurity and software development
+I started experimenting with C++ and basic web development using HTML, CSS, and Javascript in middle school. C++ may not be the best language to start with but with time and many useful resources, I could write simple programs. I also had fun making simple websites, though I do not think I could work in front-end and nowadays I am focusing on different things. I also used to play video games a lot and from there I got interested in how games, servers, and their infrastructure work. I played with setting up game servers, modding games, and looking for exploitable flaws. This sparked my interest in cybersecurity, specifically the areas of reverse engineering, malware analysis, and penetration testing. During the university, I worked on multiple projects and got a glimpse of the software engineering world. I am now trying to make my way into one of these fields. 
 
 <!--
 **pwicz/pwicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +17,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I am currently learning
-## [TryHackMe](https://tryhackme.com/p/Moteke) <- check out my profile!
-<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">
+## Some of the things I do
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">](https://tryhackme.com/p/Moteke)
+[<img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" alt="HackTheBox" style="width: 120px">](https://www.hackthebox.com/)
 
-THM Certificates:
+### [I started writing a blog](https://pwicz.github.io/)
+
+### THM Certificates
 * [Jr Penetration Tester Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3VHCIIAILQ.png)
 * [AoC 2022](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WQDBBAS7MR.png)
 * [AoC 2021](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-6C4H5WL9FR.png)
 * [Complete Beginner Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YILTTKF53A.png)
 
 
-
-## Malware Analysis
-### Practical Malware Analysis
-
-[![Practical Malware Analysis book](/assets/malware-an-small.jpg)](https://nostarch.com/malware)
-
-### Open Analysis Labs
-
-[![1c900b51-1b8f-4cfd-9757-e451aac28577-profile_image-70x70](https://user-images.githubusercontent.com/30510104/188333152-eb639025-50d8-4eb9-b640-6028a1e33c31.png)](https://www.openanalysis.net/)
-
+## I am comfortable with:
+<div style="display: flex; flex-direction: row;">
+<img height="64" width="64" src="https://cdn.simpleicons.org/cplusplus" alt="C++" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/python" alt="Python" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/c" alt="C" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/php" alt="PHP" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/html5" alt="HTML" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/css3" alt="CSS" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" />
+&nbsp;
+<img height="64" width="64" src="https://cdn.simpleicons.org/git" alt="Git" />
+</div>
