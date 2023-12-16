@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">](https://tryhackme.com/p/Moteke)
 [<img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" alt="HackTheBox" style="width: 120px">](https://www.hackthebox.com/)
 
+I am currently studying towards obtaining the CCNA certification and the HTB CPTS certification.
+
 ### [I started writing a blog](https://pwicz.github.io/)
 
 ### THM Certificates
