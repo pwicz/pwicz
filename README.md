@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Some of the things I do
+TRYHACKME ->
+
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">](https://tryhackme.com/p/Moteke)
 
-I am currently studying towards obtaining the CCNA certification and the HTB CPTS certification.
+I am currently studying towards obtaining the CCNA certification and the HTB CPTS certification. Besides that, I like to play with malware, reverse engineer things, and do some CTFs.
 
 ### [I started writing a blog](https://pwicz.github.io/)
 
