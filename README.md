@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Piotr
 ## I am a student with a strong interest in cybersecurity and software development
-I started experimenting with C++ and basic web development using HTML, CSS, and Javascript in middle school. C++ may not be the best language to start with but with time and many useful resources, I could write simple programs. I also had fun making simple websites, though I do not think I could work in front-end and nowadays I am focusing on different things. I also used to play video games a lot and from there I got interested in how games, servers, and their infrastructure work. I played with setting up game servers, modding games, and looking for exploitable flaws. This sparked my interest in cybersecurity, specifically the areas of reverse engineering, malware analysis, and penetration testing. During the university, I worked on multiple projects and got a glimpse of the software engineering world. I am now trying to make my way into one of these fields. 
+I started experimenting with C++ and web development using HTML, CSS, and Javascript in middle school. C++ may not be the best language to start with but with time and many useful resources, I could write simple programs. I also had fun making simple websites, though I do not think I could work in front-end and nowadays I am focusing on different things. I also used to play video games a lot and from there I got interested in how games, servers, and their infrastructure work. I played with setting up game servers, modding games, and looking for exploitable flaws. This sparked my interest in cybersecurity, specifically the areas of reverse engineering, malware analysis, and penetration testing. During the university, I worked on multiple projects and got a glimpse into the software engineering world. My goal now is to contribute to these fields, have fun, and learn something new every day.
 
 <!--
 **pwicz/pwicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Some of the things I do
+## 🌱 Some of the things I do
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">](https://tryhackme.com/p/Moteke)
-[<img src="https://www.hackthebox.com/images/htb_socialmedia_cover.png" alt="HackTheBox" style="width: 120px">](https://www.hackthebox.com/)
 
 I am currently studying towards obtaining the CCNA certification and the HTB CPTS certification.
 
