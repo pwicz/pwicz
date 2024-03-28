@@ -22,9 +22,12 @@ TRYHACKME ->
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/Moteke.png" alt="TryHackMe profile">](https://tryhackme.com/p/Moteke)
 
-I am currently studying towards obtaining the CCNA certification and the HTB CPTS certification. Besides that, I like to play with malware, reverse engineer things, and do some CTFs.
+I am studying towards obtaining the HTB CPTS certification. Besides that, I like to play with malware, reverse engineer apps, and do CTFs.
 
 ### [I started writing a blog](https://pwicz.github.io/)
+
+### Certifications
+[CCNA](https://cp.certmetrics.com/cisco/en/public/verify/credential/bd5e2fb337f4497db484817673ad7b08)
 
 ### THM Certificates
 * [Jr Penetration Tester Learning Path](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3VHCIIAILQ.png)
